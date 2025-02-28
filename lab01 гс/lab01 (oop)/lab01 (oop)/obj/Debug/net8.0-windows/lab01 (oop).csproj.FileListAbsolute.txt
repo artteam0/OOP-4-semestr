@@ -1,0 +1,16 @@
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\bin\Debug\net8.0-windows\lab01 (oop).exe
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\bin\Debug\net8.0-windows\lab01 (oop).deps.json
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\bin\Debug\net8.0-windows\lab01 (oop).runtimeconfig.json
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\bin\Debug\net8.0-windows\lab01 (oop).dll
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\bin\Debug\net8.0-windows\lab01 (oop).pdb
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01__oop_.Form1.resources
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01 (oop).csproj.GenerateResource.cache
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01 (oop).GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01 (oop).AssemblyInfoInputs.cache
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01 (oop).AssemblyInfo.cs
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01 (oop).csproj.CoreCompileInputs.cache
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01 (oop).dll
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\refint\lab01 (oop).dll
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01 (oop).pdb
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\lab01 (oop).genruntimeconfig.cache
+D:\уник\4 сем\ООП\lab01\lab01 (oop)\lab01 (oop)\obj\Debug\net8.0-windows\ref\lab01 (oop).dll
