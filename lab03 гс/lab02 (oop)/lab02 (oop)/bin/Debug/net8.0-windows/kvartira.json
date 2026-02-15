@@ -1,0 +1,23 @@
+{
+  "Metraz": "25-35 m^2",
+  "NumOfRooms": 1,
+  "Kitchen": false,
+  "San": false,
+  "Bathroom": false,
+  "Wardrobe": false,
+  "Basement": false,
+  "Studio": false,
+  "Parking": false,
+  "ClosedBalcony": false,
+  "OpenedBalcony": false,
+  "Panel": null,
+  "Brick": null,
+  "Floor": 4,
+  "Country": "\u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F",
+  "City": "\u044F\u044F\u044F",
+  "District": "",
+  "Street": "",
+  "House": "",
+  "Corp": "",
+  "Apart": ""
+}

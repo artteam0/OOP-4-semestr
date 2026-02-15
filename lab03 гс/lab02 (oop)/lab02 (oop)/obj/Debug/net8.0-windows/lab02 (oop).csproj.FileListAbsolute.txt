@@ -1,0 +1,50 @@
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).exe
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).deps.json
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).runtimeconfig.json
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).pdb
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).csproj.GenerateResource.cache
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).AssemblyInfoInputs.cache
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).AssemblyInfo.cs
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).csproj.CoreCompileInputs.cache
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\refint\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).pdb
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).genruntimeconfig.cache
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\ref\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab02\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02.Form1.resources
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).exe
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).deps.json
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).runtimeconfig.json
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).pdb
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02.Form1.resources
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).csproj.GenerateResource.cache
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).AssemblyInfoInputs.cache
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).AssemblyInfo.cs
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).csproj.CoreCompileInputs.cache
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\refint\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).pdb
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).genruntimeconfig.cache
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\ref\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab03\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02__oop_.Properties.Resources.resources
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).exe
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).deps.json
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).runtimeconfig.json
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\bin\Debug\net8.0-windows\lab02 (oop).pdb
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02.Form1.resources
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02__oop_.Properties.Resources.resources
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).csproj.GenerateResource.cache
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).AssemblyInfoInputs.cache
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).AssemblyInfo.cs
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).csproj.CoreCompileInputs.cache
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\refint\lab02 (oop).dll
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).pdb
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\lab02 (oop).genruntimeconfig.cache
+D:\уник\4 сем\ООП\lab03 гс\lab02 (oop)\lab02 (oop)\obj\Debug\net8.0-windows\ref\lab02 (oop).dll
