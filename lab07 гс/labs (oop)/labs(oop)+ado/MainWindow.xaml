@@ -1,0 +1,57 @@
+﻿<Window x:Class="labs_oop__ado.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:labs_oop__ado"
+        xmlns:ctrl="clr-namespace:labs_oop__ado.Controls"
+        xmlns:cmd="clr-namespace:labs_oop__ado.Commands"
+        mc:Ignorable="d"
+        Title="Custom Controls Demo" Height="450" Width="800"
+        Name="MyWindow"
+        ctrl:StatusIndicator.PreviewStatusChanged="Window_PreviewStatusChanged"
+        ctrl:StatusIndicator.StatusChanged="Window_StatusChanged">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="cmd:AppCommands.ResetNumericValue"
+                        Executed="ResetNumericValue_Executed"
+                        CanExecute="ResetNumericValue_CanExecute"/>
+    </Window.CommandBindings>
+
+    <StackPanel Margin="10">
+        <TextBlock Text="NumericUpDown Control:" FontWeight="Bold"/>
+        <ctrl:NumericUpDown x:Name="MyNumericUpDown"
+                            Minimum="0" Maximum="100" Value="10" Step="5"
+                            ValueChanged="MyNumericUpDown_ValueChanged"
+                            Margin="5"/>
+        <TextBlock Text="{Binding ElementName=MyNumericUpDown, Path=Value, StringFormat='Текущее значение NumericUpDown: {0}'}"/>
+
+        <Separator Margin="0,10"/>
+
+        <TextBlock Text="StatusIndicator Control:" FontWeight="Bold"/>
+        <StackPanel Name="IndicatorPanel" Margin="5"
+                    ctrl:StatusIndicator.PreviewStatusChanged="IndicatorPanel_PreviewStatusChanged"
+                    ctrl:StatusIndicator.StatusChanged="IndicatorPanel_StatusChanged">
+            <ctrl:StatusIndicator x:Name="MyStatusIndicator"
+                                  StatusText="Offline"
+                                  IndicatorBrush="Red"
+                                  ctrl:StatusIndicator.Activated="MyStatusIndicator_Activated"
+                                  ctrl:StatusIndicator.PreviewStatusChanged="MyStatusIndicator_PreviewStatusChanged"
+                                  ctrl:StatusIndicator.StatusChanged="MyStatusIndicator_StatusChanged" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <Button Content="Set Status 'Online'" Click="SetOnline_Click" Margin="0,0,5,0"/>
+            <Button Content="Set Status 'Busy' (will be cancelled)" Click="SetBusy_Click" Margin="0,0,5,0"/>
+        </StackPanel>
+
+        <Separator Margin="0,10"/>
+        <TextBlock Text="Event Log (Routing Demo):" FontWeight="Bold"/>
+        <ListBox x:Name="EventLogListBox" Height="150" Margin="5"/>
+
+        <Separator Margin="0,10"/>
+        <TextBlock Text="Custom Command Demo:" FontWeight="Bold"/>
+        <Button Content="Reset Numeric (Command)" Command="cmd:AppCommands.ResetNumericValue" CommandParameter="50" Margin="5"/>
+        <TextBlock Text="Или нажмите Ctrl+R"/>
+
+    </StackPanel>
+</Window>

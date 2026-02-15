@@ -1,0 +1,44 @@
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.exe
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.deps.json
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.runtimeconfig.json
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.dll
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.pdb
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\App.g.cs
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado_MarkupCompile.cache
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado_MarkupCompile.lref
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\MainWindow.baml
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\Themes\Generic.baml
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.g.resources
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.AssemblyInfoInputs.cache
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.AssemblyInfo.cs
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.csproj.CoreCompileInputs.cache
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.dll
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\refint\labs(oop)+ado.dll
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.pdb
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.genruntimeconfig.cache
+D:\уник\4 сем\ООП\labs(oop)+ado\labs(oop)+ado\obj\Debug\net8.0-windows\ref\labs(oop)+ado.dll
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.exe
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.deps.json
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.runtimeconfig.json
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.dll
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\bin\Debug\net8.0-windows\labs(oop)+ado.pdb
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\App.g.cs
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado_MarkupCompile.cache
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado_MarkupCompile.lref
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\MainWindow.baml
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\Themes\Generic.baml
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.g.resources
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.GeneratedMSBuildEditorConfig.editorconfig
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.AssemblyInfoInputs.cache
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.AssemblyInfo.cs
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.csproj.CoreCompileInputs.cache
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.dll
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\refint\labs(oop)+ado.dll
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.pdb
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\labs(oop)+ado.genruntimeconfig.cache
+D:\уник\4 сем\ООП\labs (oop)\labs(oop)+ado\obj\Debug\net8.0-windows\ref\labs(oop)+ado.dll

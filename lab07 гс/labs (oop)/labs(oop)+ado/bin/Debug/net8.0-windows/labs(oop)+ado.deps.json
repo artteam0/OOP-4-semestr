@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "labs(oop)+ado/1.0.0": {
+        "runtime": {
+          "labs(oop)+ado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "labs(oop)+ado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
